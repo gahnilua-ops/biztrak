@@ -1,8 +1,13 @@
 # Codex Agent Instructions
 
 ## Git Workflow
-- Commit and push directly using `git push origin main`.
-- Internet access is enabled — do not skip the push step.
+- Before pushing, always run `git branch` to check the current branch name.
+- Before pushing, always run `git remote -v` to verify the remote is configured.
+- If no remote named `origin` exists, add it:
+  `git remote add origin https://github.com/gahnilua-ops/biztrak.git`
+- Push using the current branch name, not a hardcoded one:
+  `git push origin HEAD`
+- Do NOT assume the branch is called `main` — always detect it dynamically.
 - Do NOT open a pull request unless explicitly asked.
 
 ## Commit Message Format
