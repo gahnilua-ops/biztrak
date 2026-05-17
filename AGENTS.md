@@ -1,10 +1,9 @@
 # Codex Agent Instructions
 
 ## Git Workflow
-- Always commit and push changes directly to the current branch.
+- Commit and push directly using `git push origin main`.
+- Internet access is enabled — do not skip the push step.
 - Do NOT open a pull request unless explicitly asked.
-- Use `git push origin HEAD` after committing your changes.
-- Write clear, concise commit messages describing what was changed and why.
 
 ## Commit Message Format
 - Use present tense: "Fix bug in login flow" not "Fixed bug"
