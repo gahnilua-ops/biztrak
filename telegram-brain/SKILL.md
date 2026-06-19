@@ -1,5 +1,5 @@
 ---
-name: telegram_brain
+name: telegram-brain
 description: Core “brain” for a Telegram bot. Receives a message payload, runs the chosen TutPug mode (or a chat response), and returns the reply text.
 category: integration
 required services: none
