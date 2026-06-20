@@ -1,9 +1,10 @@
 ---
-name: humanizer
-description: >
-  Persistent memory system for AI agents. Remember fa>
-  cts, learn from experience, and track entities acro>
-  ss sessions.
+name: agent-memory
+description: 
+  Persistent memory system for AI agents. Remember facts, learn from experience,
+  and track entities across sessions. Use this skill when the user wants the
+  agent to recall prior facts, log lessons learned from successes or failures,
+  or keep track of people, projects, or entities across multiple sessions.
 ---
 
 ## Installation
@@ -68,3 +69,4 @@ On session end:
 Default: `~/.agent-memory/memory.db`
 
 Custom: `AgentMemory(db_path="/path/to/memory.db")`
+
