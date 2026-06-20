@@ -1,6 +1,6 @@
 ---
 name: humanizer
-description:
+description: >
   Persistent memory system for AI agents. Remember fa>
   cts, learn from experience, and track entities acro>
   ss sessions.
