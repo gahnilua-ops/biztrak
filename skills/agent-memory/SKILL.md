@@ -1,8 +1,7 @@
 ---
-name: AgentMemory Skill
-
+name: agentmemory skill
 description:
-Persistent memory system for AI agents. Remember facts, learn from experience, and track entities across sessions.
+persistent memory system for AI agents. Remember facts, learn from experience, and track entities across sessions.
 ---
 
 ## Installation
