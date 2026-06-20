@@ -1,7 +1,9 @@
 ---
-name: agentmemory skill
+name: humanizer
 description:
-persistent memory system for AI agents. Remember facts, learn from experience, and track entities across sessions.
+  Persistent memory system for AI agents. Remember fa>
+  cts, learn from experience, and track entities acro>
+  ss sessions.
 ---
 
 ## Installation
