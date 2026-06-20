@@ -1,7 +1,8 @@
 ---
-# AgentMemory Skill
+AgentMemory Skill
 
 Persistent memory system for AI agents. Remember facts, learn from experience, and track entities across sessions.
+---
 
 ## Installation
 
