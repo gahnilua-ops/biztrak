@@ -1,6 +1,6 @@
 ---
 name: humanizer
-description: >
+description: 
   Humanize AI-generated text by detecting and removing patterns typical of LLM
   output. Rewrites text to sound natural, specific, and human. Uses 24 pattern
   detectors, 500+ AI vocabulary terms across 3 tiers, and statistical analysis
